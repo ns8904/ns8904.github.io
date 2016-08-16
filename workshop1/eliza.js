@@ -225,6 +225,11 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x prophesy ~*y": [
+  	"Do you believe in a deterministic universe?"
+  	"You must not believe in a deterministic universe."
+  	"Why do you act if not in concert with prophesy?"
+  ],
 };
 
 var default_responses = [
